@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "耽美ヶ原小学校 校歌",
+  "base_artist": "色々な十字架",
+  "createdAt": "2026-01-08T12:45:47.774679Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "耽美ヶ原小学校 校歌",
+      "artist": "色々な十字架",
+      "has_synced": false,
+      "path": "select/pl_01_耽美ヶ原小学校_校歌_色々な十字架.txt"
+    }
+  ]
+}
